@@ -15,8 +15,14 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```python
+#Program to find the solution for the given linear equations.
+#Developed by:Gumma Dileep Kumar
+#RegisterNumber:22007129
 import numpy as np
-from tensorflow import keras
+a=np.array([[1,-3],[3,1]])
+b=np.array([0,10])
+sol=np.linalg.solve (a,b)
+print(sol)
 ```
 
 ## Output:
