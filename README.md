@@ -26,7 +26,7 @@ print(sol)
 ```
 
 ## Output:
- ![MODEL](/solution%20output.png)
+ ![MODEL](/solving_linear_output%20.png)
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program.
 
